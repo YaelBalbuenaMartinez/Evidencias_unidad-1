@@ -1,0 +1,2 @@
+//splice inv para que sirve
+//sweetalert12 pagina donde estan los prompt

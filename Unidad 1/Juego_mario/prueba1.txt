@@ -1,0 +1,14 @@
+ let tec=e.key
+    let cantidad=0
+    Personaje.style.transform='translateX(1200px)'
+switch(tec){
+    //ArrowLeft//ArrowRight
+    
+    case'ArrowLeft':
+    break;
+
+    case 'ArrowRight':
+        //cantidad-=100
+        //Element.style.transform='translateX(${cantidad}px)'
+    break;
+}

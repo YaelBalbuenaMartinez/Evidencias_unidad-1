@@ -1,0 +1,31 @@
+body{
+    background: rgb(169, 243, 126);
+}
+
+header{
+    padding: 10px;
+    color: rgb(0, 0, 0);
+}
+
+.resultado{
+    text-align: center;
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+}
+
+.opciones{
+    text-align: center;
+    margin: 50px;
+}
+.opcion{
+    width: 90px;
+    display: inline-block;
+    padding: 15px;
+    margin: 20px;
+}
+
+.opcion:hover{
+    background-color: rgb(74, 247, 21);
+    cursor: pointer;
+    border-radius: 10%;
+}
